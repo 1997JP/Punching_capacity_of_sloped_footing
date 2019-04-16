@@ -6,23 +6,23 @@
 #type:scalar
 25
 
-#name:L
+#name:Breadth
 #type:scalar
 3000
 
-#name:B
+#name:Length
 #type:scalar
 4000
 
-#name:D
+#name:Depth_at_face
 #type:scalar
 750
 
-#name:d
+#name:Depth_at_edge
 #type:scalar
 300
 
-#name:b
+#name:Side_of_column
 #type:scalar
 350
 
