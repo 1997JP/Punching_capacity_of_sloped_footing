@@ -12,8 +12,8 @@ printf("\n")
 
 #by using similar traingle property
 disp("by using similar traingle property")
-disp("x=((D_effective/2)*(Depth_at_face-Depth_at_edge))/((length-Side_of_column)/2)")
-x=((D_effective/2)*(Depth_at_face-Depth_at_edge))/((length-Side_of_column)/2);
+disp("x=((D_effective/2)*(Depth_at_face-Depth_at_edge))/((Length-Side_of_column)/2)")
+x=((D_effective/2)*(Depth_at_face-Depth_at_edge))/((Length-Side_of_column)/2);
 printf("x = % d mm \n",x)
 printf("\n")
 
